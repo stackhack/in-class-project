@@ -1,0 +1,91 @@
+#about-hero {
+    height: 180px;
+    width: 80%;
+    background-image: url( https://www.google.com/url?sa=i&rct=j&
+    q=&esrc=s&source=images&cd=&ved=0ahUKEwiDnvv2_JbVAhVqsFQKHapxCk
+    gQjBwIBA&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FccavqFZBO1U%2Fhqdefault.
+    jpg&psig=AFQjCNFwwpJHcnmHrQ0hzzN6IWIVNGn89w&ust=1500609237775333);
+background-size: cover;
+background-position: center;
+float:left;
+
+}
+#about-hero {
+    background-image: url(http://img10.deviantart.net/c7d2
+/i/2015/007/4/0/spock_the_jedi_by_stuukstly-d8cytnc.jpg);
+background-size: cover;
+background-position: center;
+float:right;
+
+height:400px;
+    
+}
+#img {width: 400px
+    
+}
+.footer>.div
+#about-hero~h1 {
+    width:20%;
+    float:right;
+    margin:10%;
+}
+.column {width:33%;
+     height: 400px;
+     float: left;
+     padding: 0px 16px;
+     position: relative;
+     overflow: auto;
+    
+}
+
+.column p {
+    text-align: justify;
+    
+}
+.column button {color: #37373;
+padding:20px 25px;
+border-radius:4px;
+border:none;
+position: absolute;
+bottom: 0px;
+display: block;
+left:35%;
+    
+}
+#col-1 { 
+    clear: both;
+    
+}
+
+#col-1 button {
+    background-color: #000fff;
+    width: 100px;
+    height:89px;
+}
+#col-1 button:hover {
+    font-size: 20px;
+    
+}
+#col-2 { clear: both
+
+}
+
+#col-2 button {
+    background-color: #000fff;
+    width: 100px;
+    height:89px;
+}
+
+#col-2 button:hover {
+    font-size:20px;
+}
+
+#col-3 button {
+    background-color: #000fff;
+    width: 100px;
+    height:89px;
+}
+#col-3 button:hover {
+    font-size:20px;
+}
+   

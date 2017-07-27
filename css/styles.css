@@ -1,0 +1,120 @@
+/* header styles*/
+/**fonts*/
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Open+Sans:400,800');
+* {box-sizing:border-box;}
+
+
+a { 
+    text-decoration: none;
+    color: #fff;
+}
+ul{ 
+    list-style-type: none;
+    
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bellefair', serif;
+    
+}
+p, a { 
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.text-center { text-align:center;
+}
+header {
+    position: relative;
+    
+}
+ video {
+     width:320px;
+     height:240px;
+     
+}
+#logo-img {
+    height: 300px;
+    display: inline-block;
+    padding: 10px;
+}
+ nav { display: inline-block;
+     width:  550px;
+     right:0;
+    bottom:0;     }
+nav  ul{
+    float: right;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+#hero {
+    background-image: url("../img/hero.jpg");
+    height: 350px;
+    border-radius: 10px;
+    
+    
+}
+.p {
+    background-color: #4455567;
+    
+}
+nav ul li {display: inline-block;
+         font-size:12px;
+         float: right; 100%;
+         padding:5%;
+         border-radius: 10px 10px 0px 0px;
+  }
+#home-link
+{
+    background-color: red;
+    height: 60px;
+    width: 100px;
+}
+#about-link
+{
+    background-color: blue;
+    height: 60px;
+    width: 100px;
+}
+#contact-link
+{ background-color: green;
+height: 60px;
+width: 100px;
+}
+aside ul li{ float: center;
+            border-radius:10px: 50px;
+            background-color: purple;
+            height:80px;
+        
+        width: 35%;
+        text-align: center;
+        font-weight: 300;
+}
+#blog-link li:hover {
+    color: #ff00ff; 
+    display:block;
+    
+}
+main { float: left;
+width: 65%;
+padding:50px;
+    overflow:auto;
+}
+    main h1 {
+        letter-spacing: 20px;
+        {
+    padding:  30px 80px;
+}
+    
+}
+#main-text {
+    font-size:1.5em;
+    line-height: 35px;}
+    
+footer {background-color:#333;    
+        clear: left;
+        padding: 24px 0px;
+}
+ #copyright{ color: #fff;
+ 
+    
+
